@@ -1,4 +1,6 @@
-# AI Agent System for Task Scheduling
+# AI Agent System for Auto Task Scheduling
+
+*An autonomous system that automatically schedules Todoist tasks by analyzing calendar availability and making intelligent placement decisions through coordinated AI agents.*
 
 A multi-agent system demonstrating intelligent task scheduling through LLM-powered agents, webhook processing, and calendar integration.
 
